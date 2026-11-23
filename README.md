@@ -6,7 +6,7 @@
 
 </div>
 
-## 🌐 公开仓库（9）
+## 🌐 公开仓库（8）
 
 > 按最近更新排序 · 更新于 2026-11-23
 
@@ -18,7 +18,6 @@
 - **[word-daily](https://github.com/ahazx/word-daily)** — 每日五词 · 背单词页面（互联网 / 日常 / 考研） `HTML`
 - **[options-quiz](https://github.com/ahazx/options-quiz)** — 上交所股票期权模拟试题刷题页（205 道单选题） `HTML`
 - **[lifelink](https://github.com/ahazx/lifelink)** — 生活打卡后台备份 `HTML`
-- **[myblog](https://github.com/ahazx/myblog)** — 早期个人博客
 
 ## 🔒 私有仓库（2）
 
